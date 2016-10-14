@@ -1,0 +1,3 @@
+/home/edgar/Programas/Arbol-binario/build/CMakeFiles/edit_cache.dir
+/home/edgar/Programas/Arbol-binario/build/CMakeFiles/rebuild_cache.dir
+/home/edgar/Programas/Arbol-binario/build/CMakeFiles/Arbol_Binario.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/Arbol_Binario.dir/src/NodoA.cpp.o CMakeFiles/Arbol_Binario.dir/src/ArbolP.cpp.o CMakeFiles/Arbol_Binario.dir/src/main.cpp.o  -o Arbol_Binario -rdynamic 

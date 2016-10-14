@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/ArbolP.h
+stack
+-
+NodoA.h
+../include/NodoA.h
+
+../include/NodoA.h
+iostream
+-
+cstring
+-
+vector
+-
+
+/home/edgar/Programas/Arbol-binario/src/ArbolP.cpp
+ArbolP.h
+/home/edgar/Programas/Arbol-binario/src/ArbolP.h
+
+/home/edgar/Programas/Arbol-binario/src/NodoA.cpp
+NodoA.h
+/home/edgar/Programas/Arbol-binario/src/NodoA.h
+
+/home/edgar/Programas/Arbol-binario/src/main.cpp
+ArbolP.h
+/home/edgar/Programas/Arbol-binario/src/ArbolP.h
+
